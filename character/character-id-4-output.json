@@ -1,0 +1,13 @@
+{
+    "data": {
+      "character": {
+        "id": "4",
+        "name": "<character_name>",
+        "status": "<character_status>",
+        "species": "<character_species>",
+        "type": "<character_type>",
+        "gender": "<character_gender>"
+      }
+    }
+  }
+  
